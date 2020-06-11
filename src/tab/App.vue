@@ -15,7 +15,6 @@
   </div>
 </template>
 
-
 <script>
 import axios from 'axios';
 
@@ -82,7 +81,6 @@ body {
   right: 0px;
   top: calc(50% - 74px);
 }
-
 
 .btn {
   background-color: #D8D8D8;
